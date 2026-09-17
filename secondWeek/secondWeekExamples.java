@@ -77,7 +77,6 @@ public class secondWeekExamples {
     // System.out.println("Before casting: "+ long8 + "; After casting: "+ (double)long8);
     // System.out.println("==================================");    
 
-    // Question why no data loss from int to double?
     
     // Examples on Enum
     enum Day {
